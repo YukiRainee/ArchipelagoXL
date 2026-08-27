@@ -164,7 +164,7 @@ services:
       LOBBY_ENABLED: true
       LOBBY_ROOT_URL: http://lobby:8000
       LOBBY_API_KEY: "changeme"
-      WS_PORT: "9002
+      WS_PORT: "9002"
       NORMAL_PORT: "10001"
       REDUCED_PORT: "10002"
       APX_API_LISTENADDR: "0.0.0.0:9001"
